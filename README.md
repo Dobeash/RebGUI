@@ -1,8 +1,8 @@
 # RebGUI
 
-**RebGUI only works with Rebol2.**
-
 RebGUI is a lightweight alternative to VID that was designed and built from the ground-up on top of Rebol/View. It provides a rich, consistent set of OS-like widgets for building applications.
+
+**This software requires REBOL/View 1.3, which can be found at http://www.rebol.com.**
 
 # What's wrong with VID?
 
