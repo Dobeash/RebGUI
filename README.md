@@ -46,7 +46,7 @@ These principles gain efficiency at the cost of flexibility. If you need a flexi
 - **USER.md** - describes how to build and use RebGUI displays.
 - **WIDGETS.md** - describes the use and operation of the various widgets.
 - **REQUESTORS.md** - describes the use and operation of the various requestors.
-- **FUNCTIUONS.md** - describes the use and operation of the various functions.
+- **FUNCTIONS.md** - describes the use and operation of the various functions.
 - **COOKBOOK.md** - RebGUI tricks, tips & code examples.
 - **DESIGNER** - describes how to create RebGUI widgets.
 
