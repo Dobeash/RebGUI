@@ -1,4 +1,6 @@
-# RebGUI
+# RebGUI build#117
+
+> Updated 25-Jan-2011
 
 RebGUI is a lightweight alternative to VID that was designed and built from the ground-up on top of Rebol/View. It provides a rich, consistent set of OS-like widgets for building applications.
 
@@ -43,12 +45,12 @@ These principles gain efficiency at the cost of flexibility. If you need a flexi
 
 > Updated 25-Jan-2011
 
-- **USER.md** - describes how to build and use RebGUI displays.
-- **WIDGETS.md** - describes the use and operation of the various widgets.
-- **REQUESTORS.md** - describes the use and operation of the various requestors.
-- **FUNCTIONS.md** - describes the use and operation of the various functions.
-- **COOKBOOK.md** - RebGUI tricks, tips & code examples.
-- **DESIGNER** - describes how to create RebGUI widgets.
+- [User Guide](USER.md) - Describes how to build and use RebGUI displays.
+- [Widget Reference](WIDGETS.md) - Describes the use and operation of the various widgets.
+- [Requestor Reference](REQUESTORS.md) - Describes the use and operation of the various requestors.
+- [Function Reference](FUNCTIONS.md) - Describes the use and operation of the various functions.
+- [Cookbook](COOKBOOK.md) - RebGUI tricks, tips & code examples.
+- [Widget Designer's Guide](DESIGNER.md) - Describes how to create RebGUI widgets.
 
 # Rebol Documentation
 
